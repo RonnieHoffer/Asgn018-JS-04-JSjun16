@@ -22,7 +22,7 @@ var eatDot2 = function() {
 
 eatDot2();
 
-// Arrow Function
+// Arrow Function (also annonymous)
 var eatDot3 = () => {
     console.log("SLURP!");
 }
